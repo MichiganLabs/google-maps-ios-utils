@@ -143,9 +143,8 @@
 		15292AF02141B29C001824C1 /* GoogleMapsUtils.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GoogleMapsUtils.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		15292AF22141B29C001824C1 /* GoogleMapsUtils.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GoogleMapsUtils.h; sourceTree = "<group>"; };
 		15292AF32141B29C001824C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		15292AF92141B2DE001824C1 /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMaps.framework; path = ../Carthage/Build/iOS/GoogleMaps.framework; sourceTree = "<group>"; };
+		15292AF92141B2DE001824C1 /* GoogleMaps.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMaps.framework; path = Carthage/Build/iOS/GoogleMaps.framework; sourceTree = "<group>"; };
 		15292B3A2141BC64001824C1 /* GoogleMapsBase.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsBase.framework; path = Carthage/Build/iOS/GoogleMapsBase.framework; sourceTree = "<group>"; };
-		15292B3B2141BC64001824C1 /* GoogleMapsM4B.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsM4B.framework; path = Carthage/Build/iOS/GoogleMapsM4B.framework; sourceTree = "<group>"; };
 		15292B3C2141BC64001824C1 /* GoogleMapsCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = GoogleMapsCore.framework; path = Carthage/Build/iOS/GoogleMapsCore.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -321,7 +320,6 @@
 			children = (
 				15292B3A2141BC64001824C1 /* GoogleMapsBase.framework */,
 				15292B3C2141BC64001824C1 /* GoogleMapsCore.framework */,
-				15292B3B2141BC64001824C1 /* GoogleMapsM4B.framework */,
 				15292AF92141B2DE001824C1 /* GoogleMaps.framework */,
 			);
 			name = Frameworks;

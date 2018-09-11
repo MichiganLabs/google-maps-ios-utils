@@ -34,3 +34,11 @@
 #import <GoogleMapsUtils/GQTPointQuadTree.h>
 #import <GoogleMapsUtils/GQTPointQuadTreeChild.h>
 #import <GoogleMapsUtils/GQTPointQuadTreeItem.h>
+
+// Testing
+#import <GoogleMapsUtils/GMUGeometryRenderer+Testing.h>
+#import <GoogleMapsUtils/GMUClusterManager+Testing.h>
+#import <GoogleMapsUtils/GMUDefaultClusterRenderer+Testing.h>
+#import <GoogleMapsUtils/GMUDefaultClusterIconGenerator+Testing.h>
+
+
